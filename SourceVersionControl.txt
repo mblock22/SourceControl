@@ -1,0 +1,7 @@
+[Apps]
+TestEL = 1
+SS07 = 1
+HIPPS = 1
+DA_DIV = 1
+AFT = 1
+RTD_AVI = 1
